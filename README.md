@@ -1,3 +1,3 @@
 # jogopong
-Jogo desenvolvido no Java
+## Jogo desenvolvido no Java
 -Desenvolvido por **Carlos**
